@@ -1,4 +1,4 @@
-package JavaClass6;
+package com.syntax.class06;
 
 public class SwitchCases {
 
