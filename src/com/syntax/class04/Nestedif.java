@@ -15,7 +15,7 @@ public class Nestedif {
 				System.out.println("You need to study more.");
 			}else {
 				System.out.println("Do better.");
-			}}
+			}
 			
 		}else {
 			System.out.println("you should always complete.");
