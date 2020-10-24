@@ -6,7 +6,9 @@ public class HW3 {
 		
 		String[] countries= {"USA","Canada","Turkey","Mexico"};
 		String capitals;
-		
+		for (int i=0; i<countries.length; i++) {
+			
+		}
 		for (String country:countries) {
 			switch(country) {
 			case "USA":
@@ -24,6 +26,7 @@ public class HW3 {
 				default:
 					capitals="null";
 			}
+			System.out.println("The capital of "+country+" is "+capitals);
 		}
 
 	}
